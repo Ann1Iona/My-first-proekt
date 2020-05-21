@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="bg-img" style="height: 1800px;">
+<!--Шапка-->
+<div class="bg-yellow solid pt-2 pb-1 " style="height: 1px;">
+	<big class="ff ml-2 fs">Японская культура</big>
+  	<input type="text" placeholder="Искать здесь..." class="ml-6 ff">
+  	<button type="submit" class="btn ff">Поиск</button>
+</div>
+<!--Картинка-->
+<div class="bg-img1 solid mt-3 mx-auto widht-1060" style="height: 550px;">
+	<div class="widht-300 mx-auto mt-6 pt-7 pr-1" style="height: 200px;">
+		<h1 align="center" class="ff ">Добро пожаловать в мир Японской культуры</h1>
+	</div>
+</div>
+<!--Указатель-->
+<div class="widht-200 mt-3 bg-yellow solid ml-1" style="height: 100px;">
+		<h1 align="center" class="ff ">Еда:</h1>
+</div>
+<!--Статьи-->
+<div class="widht-1060 bg-orange solid mt-2 mx-auto d-flex" style="height: 300px;">
+	<div class="widht-250 bg-yellow solid" style="height: 295px;">
+		<img src="shutterstock_379968754.png" class="img">
+		<p class="ff fs1 fw ml-8">Рамэн или Рамен — японское блюдо с пшеничной лапшой. Фактически представляет собой недорогой фастфуд, обладающий большой энергетической ценностью и хорошим вкусом. Считается блюдом китайской, корейской и японской кухни.</p>
+	</div>
+	<div class="widht-250 bg-yellow solid ml-1" style="height: 295px;">
+		<img src="unnamed.png" class="img">
+		<p class="ff fs1 fw ml-8">Су́ши, или су́си, — блюдо традиционной японской кухни, приготовленное из риса с уксусной приправой и различных морепродуктов, а также других ингредиентов. С начала 1980-х годов суши получило широкую популярность в мире.</p>
+	</div>
+	<div class="widht-250 bg-yellow solid ml-1" style="height: 295px;">
+		<img src="p_O.png" class="img">
+		<p class="ff fs1 fw ml-8 pb-1">Оякодон представляет собой блюдо из донбури, или японской рисовой чаши, в котором курица, яйцо, нарезанный зеленый лук и другие ингредиенты тушатся вместе в виде супа, приготовленного из соевого соуса и бульон, а затем подается на большую миску риса.</p>		
+	</div>
+	<div class="widht-250 bg-yellow solid ml-1" style="height: 295px;">
+		<img src="recept_5798_coko.png" class="img">
+		<p class="ff fs1 fw ml-8 pb-1">Удон (яп. 饂飩, обычно записывается как うどん) — один из видов лапши из пшеничной муки, характерных для японской кухни, как и соба. Слово происходит от южнокитайского названия вонтонов.</p>			
+	</div>
+</div>
+
+<!--Указатель-->
+<div class="widht-300 mt-3 bg-yellow solid ml-1" style="height: 100px;">
+		<h1 align="center" class="ff ">Достопримечательности:</h1>
+</div>
+<!--Статьи-->
+<div class="widht-1060 bg-orange solid mt-2 mx-auto d-flex" style="height: 300px;">
+	<div class="widht-250 bg-yellow solid" style="height: 295px;">
+		<img src="Fudziyama1.png" class="img">
+		<p class="ff fs1 fw ml-8 pb-1">Фудзи — действующий стратовулкан на японском острове Хонсю в 90 километрах к юго-западу от Токио. Высота вулкана — 3776 м. В настоящее время вулкан считается слабоактивным, последнее извержение было в 1707—1708 годах.</p>				
+	</div>
+	<div class="widht-250 bg-yellow solid ml-1" style="height: 295px;">
+		<img src="Depositphotos_178936214_m-2015.png" class="img">
+		<p class="ff fs1 fw ml-8 pb-1">Са́кура — название нескольких деревьев подсемейства сливовые; зачастую обозначает вишню мелкопильчатую. Многие виды, называемые «сакурой», используются в культуре только как декоративные растения и либо не плодоносят вообще, либо дают мелкий и несъедобный плод.</p>		
+	</div>
+	<div class="widht-250 bg-yellow solid ml-1" style="height: 295px;">
+		<img src="museums04.png" class="img">
+		<p class="ff fs1 fw ml-8 pb-1">Киотский международный музей манги — музей, расположенный в Киото, Япония. Он был открыт 25 ноября 2006 года и является совместным предприятием города Киото и киотского Университета Сэйка. Кроме того, музей манги является исследовательским центром для учёных. </p>		
+	</div>
+	<div class="widht-250 bg-yellow solid ml-1" style="height: 295px;">
+		<img src="article_5534e85ad09ce5.58207026.png" class="img">
+		<p class="ff fs1 fw ml-8 pb-1">Замок Химэдзи — один из древнейших сохранившихся японских замков и самый популярный среди туристов. Всего в замковый комплекс входит 83 здания, практически все они построены из дерева. У подножия замка раскинулся одноимённый город.</p>		
+	</div>
+</div>

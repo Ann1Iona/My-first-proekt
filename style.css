@@ -1,0 +1,189 @@
+/*Цвета*/	
+	.bg-info {
+		background: #31e89f;
+	}
+	.bg-yellow {
+		background: #f7d6b7;
+	}
+	.bg-orange {
+		background: #faffba;
+	}
+	.bg-blue {
+		background: #b0ebd3;
+	}
+	.bg-danger {
+		background-color: #f58e87;
+	}
+	.bg-dark {
+		background-color: black;
+	}
+	.bg-success {
+		background-color: #2de333;
+	}
+	.bg-img {
+		background-image: url(backgroud1.png);
+		background-size: 100% 100%;
+	}
+	.bg-img1 {
+		background-image: url(5036c9c6ee86f61e23eda15245ad3b98.png);
+		background-size: 100% 100%;
+	}
+	/*Ширина*/
+	.widht-200 {
+		width: 200px;
+	}
+	.widht-250 {
+		width: 250px;
+	}
+	.widht-300 {
+		width: 400px;
+	}
+	.widht-1060 {
+		width: 1060px;
+	}
+	.widht-1320 {
+		width: 1320px;
+	}
+	.widht-150 {
+		width: 150px;
+	}
+	/*Обводка*/
+	.solid {
+		border: solid;
+	}
+	/*Display-flex*/
+	.d-flex {
+		display: flex;
+	}
+	.pb-1 {
+		padding-bottom: 64px;
+	}
+	.pb-2 {
+		padding-bottom: 16px;
+	}	
+		/* Внешние отступы слева */
+	.ml-1 {
+		margin-left: 16px;
+	}
+	.ml-8 {
+		margin-left: 10px;
+	}	
+	/*  */
+	.ml-2 {
+		margin-left: 32px;
+	}
+	/*  */
+	.ml-3 {
+		margin-left: 48px;
+	}
+	/*  */
+	.ml-4 {
+		margin-left: 64px;
+	}
+	/*  */
+	.ml-5 {
+		margin-left: 80px;
+	}
+	.ml-6 {
+		margin-left: 780px;
+	}
+
+	/* Внешние отступы сверху */
+	.mt-1 {
+		margin-top: 16px;
+	}
+	/*  */
+	.mt-2 {
+		margin-top: 32px;
+	}
+	/*  */
+	.mt-3 {
+		margin-top: 48px;
+	}
+	/*  */
+	.mt-4 {
+		margin-top: 64px;
+	}
+	/*  */
+	.mt-5 {
+		margin-top: 80px;
+	}
+	/*  */
+	.mt-6 {
+		margin-top: 120px;
+	}
+	/* ВНУТРЕННИЕ ОТСТУПЫ */
+	.pt-1 {
+		padding-top: 16px;
+	}
+	/*  */
+	.pt-2 {
+		padding-top: 32px;
+	}
+	/*  */
+	.pt-3 {
+		padding-top: 48px;
+	}
+	/*  */
+	.pt-4 {
+		padding-top: 64px;
+	}
+	/*  */
+	.pt-5 {
+		padding-top: 80px;
+	}
+	.pt-7 {
+		padding-top: 85px;
+	}
+	/* ШРИФТ Arial */
+	.ff-arial {
+		font-family: Arial;
+	}
+	/* РАМКА - border */
+	.border {
+		border: 1px solid #dee2e6;
+	}
+	/* Автоматические отступы слева и справа */
+	.mx-auto {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.ff {
+		font-family: cursive;
+	}
+	.btn {
+		background: #faffba;
+		width: 60px;
+		height: 25px;
+		margin-top: 5px;
+	}
+	.fs {
+		font-size: 135%;
+	}
+	.pr-1 {
+		padding-right: 350px;
+	}
+	.img {
+		margin-right: auto;
+		margin-left: auto;
+ 		height: 180px; 
+ 		width: 250px;
+	}
+	.color {
+		color: blue;
+	}
+	.fs1 {
+		font-size: 65%;
+	}
+	.fw {
+		font-weight: normal;
+	}
+	.mb-1 {
+		margin-bottom: 10px;
+	}
+	.img1 {
+		margin-right: auto;
+		margin-left: auto;
+ 		height: 150px; 
+ 		width: 250px;
+	}
